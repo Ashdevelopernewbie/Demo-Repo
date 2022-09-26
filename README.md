@@ -6,4 +6,4 @@ This is an edit!
 
 ## Sub-header
 
-From a tutorial from youtube
+Learning from a tutorial in youtube
